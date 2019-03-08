@@ -1,2 +1,2 @@
 # Victims-of-Gravity-code
-Code is made by Anton Rautanen And Marko niiranen [Damcho](https://github.com/Damchou)
+Code is made by Anton Rautanen And Marko Niiranen [Damcho](https://github.com/Damchou)
